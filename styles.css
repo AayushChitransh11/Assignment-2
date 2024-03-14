@@ -1,0 +1,10 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 234, 235);
+    
+
+}
+h1{
+    text-align: center;
+    color:rgba(15, 15, 80, 0.649);
+}
